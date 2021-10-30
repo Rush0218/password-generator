@@ -58,7 +58,7 @@ header {
 }
 
 .card-body textarea {
-  min-height: 175px;
+  min-height: 200px;
   width: 100%;  
   margin: 15px 0;
   resize: none;
